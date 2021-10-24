@@ -4,3 +4,16 @@
 .container, .content {
 width: 100%;
 }
+/* Our CSS file. */
+
+    .child {
+        width: 50%;
+        float: left;
+        
+    }
+    .child2 {
+        text-align:center;
+        width: 50%;
+        float: left;
+        margin-top: 25%;
+    }    
